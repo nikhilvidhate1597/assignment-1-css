@@ -1,0 +1,42 @@
+h1{
+    color: red;
+    font: size 20px;
+}
+h2{
+    color: orange;
+    font: size 20px;
+}
+ol{
+    color: #c01818;
+    font: size 20px;
+}
+span{
+    font-weight: bold;
+}
+ul{
+    color:brown;
+    font: size 20px;
+    letter-spacing: 5px;
+}
+.test{
+    color:brown;
+    font-size: 20px;
+}
+.test1{
+    color:brown;
+    font-size: 20px;
+}
+.test2{
+    color:brown;
+    font-size: 20px;
+}
+.tet{
+    font-style: italic;
+    text-decoration:underline;
+}
+a{
+    font-style: italic;
+    background-color: yellow;
+    text-decoration:none;
+
+}
